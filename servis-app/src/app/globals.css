@@ -1,7 +1,0 @@
-*{box-sizing:border-box}body{margin:0;font-family:system-ui,sans-serif;background:#f6f7f9;color:#1a1a1a}
-main{max-width:760px;margin:0 auto;padding:16px}h1{font-size:22px}a{color:#2563eb}
-form{display:grid;gap:10px;margin:12px 0}input,select,textarea,button{font:inherit;padding:10px;border:1px solid #cbd5e1;border-radius:8px;background:#fff;width:100%}
-button{background:#2563eb;color:#fff;border:0;cursor:pointer}button.sec{background:#e2e8f0;color:#111}
-.card{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:14px;margin:10px 0}
-.row{display:flex;justify-content:space-between;gap:8px;align-items:center}.badge{background:#e0e7ff;border-radius:99px;padding:2px 10px;font-size:13px}
-.err{background:#fee2e2;padding:8px;border-radius:8px}@media print{.noprint{display:none}body{background:#fff}}
